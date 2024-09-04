@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\c#\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\18152e49-fffe-46f7-8643-cabd9a5d9cd5.jpeg",
+      "PackagePath": "staticwebassets\\actores\\18152e49-fffe-46f7-8643-cabd9a5d9cd5.jpeg"
+    },
+    {
+      "Id": "D:\\c#\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\444040ae-504a-4226-8554-088261b4a567.png",
+      "PackagePath": "staticwebassets\\actores\\444040ae-504a-4226-8554-088261b4a567.png"
+    },
+    {
+      "Id": "D:\\c#\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\bc4a70f7-4999-4c43-af79-3c24298fb84a.jpg",
+      "PackagePath": "staticwebassets\\actores\\bc4a70f7-4999-4c43-af79-3c24298fb84a.jpg"
+    },
+    {
+      "Id": "D:\\c#\\PeliculasAPI\\PeliculasAPI\\wwwroot\\peliculas\\8f9e391f-1892-437d-88ee-3833eff36f59.jpeg",
+      "PackagePath": "staticwebassets\\peliculas\\8f9e391f-1892-437d-88ee-3833eff36f59.jpeg"
+    },
+    {
+      "Id": "D:\\c#\\PeliculasAPI\\PeliculasAPI\\wwwroot\\peliculas\\d157edff-67f7-4e47-bcb2-1782336e61db.jpeg",
+      "PackagePath": "staticwebassets\\peliculas\\d157edff-67f7-4e47-bcb2-1782336e61db.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PeliculasAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PeliculasAPI.props",
+      "PackagePath": "build\\PeliculasAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PeliculasAPI.props",
+      "PackagePath": "buildMultiTargeting\\PeliculasAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PeliculasAPI.props",
+      "PackagePath": "buildTransitive\\PeliculasAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
